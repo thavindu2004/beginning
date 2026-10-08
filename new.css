@@ -72,5 +72,14 @@
 
     /* about */
 
-    
 
+
+.at {
+    background-color: rgb(156, 223, 200);
+    border-radius: 10px;
+    color: blue;
+    letter-spacing: 1px;
+    font-size: 20px;
+    text-align: center;
+    padding: auto;
+}
